@@ -1,0 +1,18 @@
+c:\users\lenovo\source\repos\Control Calculadora\Calculadora\bin\Debug\Calculadora.dll
+c:\users\lenovo\source\repos\Control Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\lenovo\source\repos\Control Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\lenovo\source\repos\Control Calculadora\Calculadora\obj\Debug\Calculadora.UserControl1.resources
+c:\users\lenovo\source\repos\Control Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\lenovo\source\repos\Control Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\Control Calculadora\Calculadora\obj\Debug\Calculadora.dll
+c:\users\lenovo\source\repos\Control Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\lenovo\source\repos\Control Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Control Calculadora\Control Calculadora\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\lenovo\Desktop\Control Calculadora\Control Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\lenovo\Desktop\Control Calculadora\Control Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Control Calculadora\Control Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Control Calculadora\Control Calculadora\Calculadora\obj\Debug\Calculadora.UserControl1.resources
+C:\Users\lenovo\Desktop\Control Calculadora\Control Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Control Calculadora\Control Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Control Calculadora\Control Calculadora\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\lenovo\Desktop\Control Calculadora\Control Calculadora\Calculadora\obj\Debug\Calculadora.pdb
